@@ -9,7 +9,7 @@
     • Refactored and Improved system throughput by decoupling services using RESTful API and loading balancing by Nginx (REST API, Nginx).
 
 ## System Overview
-
+![](https://github.com/lbrobinho/Collaborative-Online-Judge-System/1.JPG)
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
