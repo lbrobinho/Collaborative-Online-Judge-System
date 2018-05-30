@@ -1,11 +1,11 @@
 # Collaborative-Online-Judge-System
 
     • Implemented a web-based collaborative code editor which supports multiple user editing simultaneously (ACE, Socket.io, Redis);
-    
+
     • Designed and developed a single-page web application for coding problems (Angular2, Auth0, Node.js, MongoDB);
-    
+
     • Built a user-code executor service which can build and execute user’s code (Docker, Flask);
-    
+
     • Refactored and Improved system throughput by decoupling services using RESTful API and loading balancing by Nginx (REST API, Nginx).
 
 ## System Overview
@@ -13,6 +13,11 @@
 
 ## System Design Diagram
 ![](https://github.com/lbrobinho/Collaborative-Online-Judge-System/raw/master/image/2.JPG)
+
+## Development environment
+- **AngularJS** is a JavaScript-based open-source front-end web application framework to develop **single-page applications**.
+- **Angular CLI** is a command line interface for Angular. We use commands such as **"ng generate"**, **"ng serve"** and so on.
+- **Bootstrap** contains HTML- and CSS-based design templates for typography, forms, buttons, **navigation** and other interface components, as well as optional JavaScript extensions.
 
 ## Getting Started
 
@@ -80,7 +85,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 
@@ -91,6 +96,3 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-
-
