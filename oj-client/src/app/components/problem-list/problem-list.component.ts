@@ -27,6 +27,7 @@ export class ProblemListComponent implements OnInit, OnDestroy {
   ngOnInit() { //
     //init problems list
     this.getProblems();
+    this.getSearchTerm();
   }
 
   ngOnDestroy() {
