@@ -18,6 +18,16 @@
 - **AngularJS** is a JavaScript-based open-source front-end web application framework to develop **single-page applications**.
 - **Angular CLI** is a command line interface for Angular. We use commands such as **"ng generate"**, **"ng serve"** and so on.
 - **Bootstrap** contains HTML- and CSS-based design templates for typography, forms, buttons, **navigation** and other interface components, as well as optional JavaScript extensions.
+- **Express** is a node.js web framework with **routing** and **middleware**. It helps us to build node.js server.
+- **Nodemon** monitors for any changes in your source and automatically restart your server.
+- We need **body-parser** to parse t JSON format request body.
+- **Mongoose** is a JavaScript framework that is commonly used in a Node.js application to connect to **MongoDB** database.
+- **RxJS** is a set of libraries to compose asynchronous and event-based programs using **observable** collections  in JavaScript.
+- **HttpClientModule** let **client** fetch the problem from **server** through API call.
+- **Ace** is an embeddable code editor written in JavaScript.
+- **socketIO** is to connect the server and the client and synchronous the content on the editor to all
+clients who are editing the same problem.
+-
 
 ## Getting Started
 
