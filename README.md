@@ -22,6 +22,7 @@
 - **Nodemon** monitors for any changes in your source and automatically restart your server.
 - We need **body-parser** to parse t JSON format request body.
 - **Mongoose** is a JavaScript framework that is commonly used in a Node.js application to connect to **MongoDB** database.
+- **MongoDB** let us store all the problems.
 - **RxJS** is a set of libraries to compose asynchronous and event-based programs using **observable** collections  in JavaScript.
 - **HttpClientModule** let **client** fetch the problem from **server** through API call.
 - **Ace** is an embeddable code editor written in JavaScript.
@@ -29,7 +30,9 @@
 - **restoreBuffer** is emitted when user enters a collaboration session, and this event asks server to send back all the cached instructions for the current session.
 - **redis** is cache to save current data in a collaboration session.
 - **Flask** Flask is a micro web framework written in Python, we use Flask to compile and execute code in **Docker**.
-- **Docker** is a container which we compile and execute code insise.
+- **Docker** is a container which we compile and execute code in.
+- **body-parse** is to parse the request body from client to server which is JSON format.
+- **HttpClientModule** let client fetch the problem from server through API call.
 
 ## Getting Started
 
